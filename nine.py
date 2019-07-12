@@ -9,3 +9,4 @@ for _ in range(0,bob):
     vizh.append(input())
 vizh.sort()
 print(longest(vizh[0],vizh[bob-1]))
+}
