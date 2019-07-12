@@ -16,8 +16,8 @@ for i in range(0,len(st[0])):
     if(j==n):
         count+=1
     else:
-        
-        
+        f=false
+        break
     
 for i in range(0,count):
     print(st[0][i],end="")
